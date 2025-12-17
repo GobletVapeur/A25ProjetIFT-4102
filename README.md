@@ -9,8 +9,6 @@ Nouveau module dédié à l’apprentissage :
 - entraînement du régresseur (scikit-learn)
 - sauvegarde et chargement du modèle (joblib)
 
-Ce fichier est indépendant de l’exécution de Pacman.
-
 ---
 
 ### trainFoodHeuristic.py
@@ -19,8 +17,6 @@ Script d’entraînement hors ligne :
 - calcule les coûts optimaux à l’aide de A*
 - entraîne un modèle de régression linéaire
 - sauvegarde le modèle appris sur disque
-
-Ce script ne lance pas de partie Pacman.
 
 ---
 
